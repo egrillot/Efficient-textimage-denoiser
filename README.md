@@ -1,4 +1,4 @@
-# Toolkit for noisy and low quality images
+# Efficient textimage denoiser
 
 It is a set of tools to provide solutions facing noisy and low quality images. You can find 3 packages in this repository using machine learning methods. 
 
