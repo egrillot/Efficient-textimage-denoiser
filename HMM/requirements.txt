@@ -1,0 +1,5 @@
+sklearn
+numpy
+hmmlearn
+Pillow
+pickle

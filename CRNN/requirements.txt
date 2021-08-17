@@ -1,0 +1,8 @@
+comtypes
+pdf2image
+numpy
+sklearn
+pickle
+matplotlib
+python-docx
+keras
